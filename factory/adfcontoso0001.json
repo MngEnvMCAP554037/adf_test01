@@ -1,0 +1,9 @@
+{
+	"name": "adfcontoso0001",
+	"location": "koreacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "93404c7d-6254-479c-a538-eb302ff4c67f",
+		"tenantId": "75179c68-105b-459c-8d8d-abdbc0acb715"
+	}
+}
