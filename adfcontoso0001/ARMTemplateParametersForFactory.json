@@ -7,6 +7,9 @@
 		},
 		"AzureDatabricks1_properties_typeProperties_existingClusterId": {
 			"value": "1202-085857-waomldo0"
+		},
+		"AzureBlobStorage1_properties_typeProperties_serviceEndpoint": {
+			"value": "https://adlstest00001.blob.core.windows.net/"
 		}
 	}
 }
